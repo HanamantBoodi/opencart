@@ -1,11 +1,10 @@
-2024-12-12 00:06:44 INFO  Utils:112 - [TestNG] Running:
+2024-12-15 19:33:45 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hanam\eclipse-workspace1\opencart\master.xml
 
-2024-12-12 00:06:52 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-12-12 00:06:52 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-12-12 00:06:52 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-12-12 00:06:52 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-12-12 00:06:53 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-12-12 00:06:53 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2024-12-12 00:06:53 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2024-12-12 00:06:55 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-12-15 19:33:52 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-15 19:33:53 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-12-15 19:33:53 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-12-15 19:33:53 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-12-15 19:33:55 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-12-15 19:33:55 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-12-15 19:33:55 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
